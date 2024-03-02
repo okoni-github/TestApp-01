@@ -24,3 +24,8 @@ const styles = StyleSheet.create({
     fontSize: 40,
     fontWeight: 'bold',
     padding: 16,
+    marginBottom: 30
+  }
+})
+
+export default Hello
